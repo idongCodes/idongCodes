@@ -50,7 +50,7 @@ I believe in continuous learning and leveraging community knowledge. My commitme
 
 Let's connect and build something great\!
 
-[BlueSky](https://bsky.app/profile/idongcodes.bsky.social)
+[BlueSky](https://bsky.app/profile/idongcodes.bsky.social) | 
 [LinkedIn](https://www.linkedin.com/in/idongcodes/)
 
 -----
