@@ -26,7 +26,7 @@ My most recent project is a testament to the full development lifecycle:
 
 ➡️ **See it Live:** [https://python-flask-web-calculator.onrender.com](https://python-flask-web-calculator.onrender.com)
 
-➡️ **Check the Code:** [The Calculator Repository Link](https://github.com/idongCodes/flask-web-calculator) *(Replace with the actual repo link\!)*
+➡️ **Check the Code:** [The Calculator Repository Link](https://github.com/idongCodes/python-flask-web-calculator)
 
 -----
 
@@ -46,12 +46,12 @@ My primary expertise is rooted in frontend fundamentals and modern application l
 
 ## 🌱 Learning & Community
 
-I believe in continuous learning and leveraging community knowledge. My commitment to foundational knowledge is best seen in my portfolio of successfully completed [freeCodeCamp certification projects](https://github.com/idongCodes%3Ftab%3Drepositories).
+I believe in continuous learning and leveraging community knowledge. My commitment to foundational knowledge is best seen in my portfolio of successfully completed [freeCodeCamp certification projects](https://github.com/idongCodes?tab=repositories).
 
 Let's connect and build something great\!
 
-[](https://bsky.app/profile/idongcodes.bsky.social)
-[](https://www.linkedin.com/in/idongcodes/)
+[BlueSky](https://bsky.app/profile/idongcodes.bsky.social)
+[LinkedIn](https://www.linkedin.com/in/idongcodes/)
 
 -----
 
