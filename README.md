@@ -48,7 +48,7 @@ My primary expertise is rooted in TypeScript-first development and modern cloud-
 
 ## 🌱 Learning & Community
 
-I believe in continuous learning and leveraging community knowledge. My commitment to foundational knowledge is best seen in my portfolio of successfully completed [freeCodeCamp certification projects](https://github.com/idongCodes?tab=repositories).
+I believe in continuous learning and leveraging community knowledge. My commitment to foundational knowledge is best seen in my portfolio of [GitHub projects](https://github.com/idongCodes?tab=repositories).
 
 Let's connect and build something great\!
 
