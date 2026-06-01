@@ -1,46 +1,48 @@
 # 🌟 Hi, I'm Essien (@idongCodes)
 
-### MA-Based, Gen Y, Software Developer | Open to Work 💼
+### MA-Based, Software Developer | Specializing in Modern Full-Stack Web Applications 💼
 
-I'm a dedicated developer with a strong foundation in core web technologies and a focus on building robust, scalable applications. My passion lies in turning ideas into clean, functional code, whether it's powering a sleek frontend or managing a rock-solid Python backend.
+I'm a dedicated developer with a strong foundation in modern web technologies, focusing on building robust, scalable, and user-centric applications. My passion lies in turning complex business problems into clean, functional code, with a particular expertise in the Next.js and Supabase ecosystem.
 
 -----
 
-## 💻 My Current Focus: The Python Full-Stack
+## 💻 My Current Focus: Symbria Delivery Logistics
 
-My recent work involves diving deep into the Python ecosystem, focusing on deployable, real-world applications.
+My recent work is centered on building a digital transformation platform for logistics, moving away from legacy paper systems toward a high-performance, real-time web solution.
 
-| Project Type | Frameworks & Tools | Skills Demonstrated |
-| :--- | :--- | :--- |
-| **Web Deployment** | **Flask**, **Gunicorn**, **Render** | CI/CD, production-ready web servers, dependency management (`requirements.txt`). |
-| **Backend Logic** | Python (3.x) | Data processing, API logic, secure computation. |
-| **Development Style** | **Neovim** (Ubuntu), **Git** | Terminal proficiency, resource efficiency, and command-line mastery. |
+| Aspect | Description |
+| :--- | :--- |
+| **The Why** | Built to eliminate the inefficiencies and errors of paper-based fleet logs, providing instant visibility and accountability for RX logistics. |
+| **The Vision** | To create a modern, "alive" tool that drivers find easy to use in the field and admins find indispensable for reporting and fleet health. |
+| **Experience** | Deep diving into **Next.js 15**, **Server Actions**, and **Supabase** to manage complex state and real-time data synchronization. |
 
-### 💡 Featured Project: Flask Web Calculator
+### 💡 Featured Project: Symbria Delivery Logistics
 
-My most recent project is a testament to the full development lifecycle:
+This project is a comprehensive fleet management and inspection platform designed for real-world reliability.
 
-  * **The App:** A fully functional, responsive web calculator.
-  * **The Stack:** Built with Python (Flask) and served via Gunicorn.
-  * **The Result:** Deployed live on the web\!
+  * **Smart Inspections:** Dynamic Pre-Trip and Post-Trip forms that adapt to driver context and enforce defect reporting.
+  * **Photo Evidence:** Integrated camera support with client-side image compression (`browser-image-compression`) for high-quality, storage-efficient vehicle logs.
+  * **Admin Dashboard:** Role-based access control (RBAC) allowing managers to monitor routes, search logs, and export reports instantly.
+  * **Public Sharing:** Secure, token-based sharing of trip logs for external verification without requiring full system access.
+  * **The Tech Stack:** Next.js 15, TypeScript, Tailwind CSS (Optimized for Light Mode), Prisma, Supabase (Postgres, Auth, Storage).
 
-➡️ **See it Live:** [https://python-flask-web-calculator.onrender.com](https://python-flask-web-calculator.onrender.com)
+> **The Hurdle:** One major challenge was handling hydration mismatches between server-rendered UTC time and client-side local time. I solved this by building a custom `<ClientDate />` component to ensure UI consistency across timezones.
 
-➡️ **Check the Code:** [The Calculator Repository Link](https://github.com/idongCodes/python-flask-web-calculator)
+➡️ **GitHub Repo:** [Symbria Delivery Logistics](https://github.com/idongCodes/symbria-delivery-logistics)
 
 -----
 
 ## 🛠️ Core Skills and Toolkit
 
-My primary expertise is rooted in frontend fundamentals and modern application logic.
+My primary expertise is rooted in TypeScript-first development and modern cloud-native architectures.
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | **JavaScript**, **Python**, HTML5, CSS3 |
-| **Frontend/UI** | DOM Manipulation, ES6+, Responsive Design |
-| **Frameworks** | **Flask**, Express.js (familiar), Node.js (runtime) |
-| **Data & Versioning** | Git, GitHub, Python Virtual Environments (`venv`) |
-| **Dev Environment** | Linux (Ubuntu), Neovim, Command Line Interface (CLI) |
+| **Languages** | **TypeScript**, **JavaScript (ES6+)**, HTML5, CSS3 |
+| **Frameworks** | **Next.js 15**, **React**, Node.js, Express |
+| **Database & ORM** | **PostgreSQL**, **Supabase**, **Prisma** |
+| **Testing** | **Playwright** (E2E), **Vitest** (Unit) |
+| **Dev Environment** | Linux (Ubuntu), Git, Neovim, Vercel |
 
 -----
 
